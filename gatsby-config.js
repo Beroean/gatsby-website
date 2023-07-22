@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Mahmoud's Personal Website`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Mahmoud Shaar`,
+      summary: `who lives and works in Houston.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://mahmoudshaar.com/`,
     social: {
-      twitter: `kylemathews`,
+      linkedin: `mahmoud-shaar`,
     },
   },
   plugins: [
